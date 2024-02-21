@@ -1,2 +1,27 @@
-je suis au loger en routes
-1:32:00 
+{
+    "username": "Veronique",
+    "email": "Vero33nique@hotmail.fr",
+    "password": "sirenedesmers"
+}
+65c2cbad3fa7107b0e60bc25
+
+{
+    "username": "Marcus",
+    "email": "Terminator6574@gmail.fr",
+    "password": "titusL45"
+}
+65d6142cdbe8923da3c8f675
+
+{
+    "username": "Julien",
+    "email": "Juju@juju.fr",
+    "password": "juju"
+}
+65d61440dbe8923da3c8f677
+
+{
+    "username": "Sophie",
+    "email": "labadgirl@gmail.com",
+    "password": "suspiria"
+}
+65d6145edbe8923da3c8f679
